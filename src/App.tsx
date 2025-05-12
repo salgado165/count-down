@@ -5,7 +5,7 @@ import VideoPlayer from './components/VideoPlayer';
 
 function App() {
   // Set target date to May 23rd at 2 PM Eastern Time
-  const targetDate = new Date('May 12, 2025 15::00 EDT');
+  const targetDate = new Date('May 12, 2025 17:00:00 EDT');
   
   // Video file path relative to the src directory
   const videoSrc = '/src/videos/countdown-complete.mp4';
